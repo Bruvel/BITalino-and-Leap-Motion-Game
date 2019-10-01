@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 76136cfa004f9c24c989b91a31af8052
+  - enabled: 1
+    path: Assets/Scenes/BITalinoAndLeapMotion.unity
+    guid: daffc71f681bf9846915938b80c78857
+  - enabled: 1
+    path: Assets/Scenes/LeapMotion.unity
+    guid: bfbf6f6b759f4ab47ad8bbfaa3e2b4a1
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 20ce05ee9cfd5c74ab8b8135626de648
   m_configObjects: {}

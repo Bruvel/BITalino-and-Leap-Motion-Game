@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<partidas>
+  <partida id="1">
+    <lanzamientos id="realizados">0</lanzamientos>
+    <total id="total">0</total>
+    <score id="1">0</score>
+    <score id="2">0</score>
+    <score id="3">0</score>
+    <score id="4">0</score>
+    <score id="5">0</score>
+  </partida>
+</partidas>

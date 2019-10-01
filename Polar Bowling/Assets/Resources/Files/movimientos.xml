@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<movimientos>
+  <movimiento id="neutro">
+    <mav id="1">0.0197712611</mav>
+    <mav id="2">0.0188797656</mav>
+    <mav id="3">0.0186217017</mav>
+    <mav id="4">0.02001173</mav>
+    <mav id="5">0.0199706741</mav>
+    <mav id="6">0.0197478011</mav>
+    <promedio id="7">0.0195004884</promedio>
+    <de id="8">0.0005438271</de>
+  </movimiento>
+  <movimiento id="ulnar">
+    <mav id="9">0.0279589444</mav>
+    <mav id="10">0.024492668</mav>
+    <mav id="11">0.01997654</mav>
+    <mav id="12">0.01941349</mav>
+    <mav id="13">0.0205571856</mav>
+    <mav id="14">0.0202522</mav>
+    <promedio id="15">0.0221085045</promedio>
+    <de id="16">0.003097653</de>
+  </movimiento>
+  <movimiento id="extensión">
+    <mav id="17">0.192422286</mav>
+    <mav id="18">0.107958943</mav>
+    <mav id="19">0.08070968</mav>
+    <mav id="20">0.07369501</mav>
+    <mav id="21">0.06878592</mav>
+    <mav id="22">0.07435191</mav>
+    <promedio id="23">0.09965396</promedio>
+    <de id="24">0.0433987677</de>
+  </movimiento>
+</movimientos>
