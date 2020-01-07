@@ -1249,7 +1249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc4f17e23086eba44b91b85b373799de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: COM3
+  portName: COM6
   baudRate: 9600
   parity: 0
   dataBits: 8
@@ -1789,7 +1789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24eec4693de62bc489643955e44d3441, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bola: {fileID: 766895776}
+  player: {fileID: 766895780}
 --- !u!1 &739483401
 GameObject:
   m_ObjectHideFlags: 0

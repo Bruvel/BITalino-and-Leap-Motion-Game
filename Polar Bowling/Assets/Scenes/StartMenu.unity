@@ -1242,7 +1242,7 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: 00d1c765a31f7b34382f2ded3ee87cb7, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 59
     m_Alignment: 4
@@ -1251,7 +1251,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BITalino
+  m_Text: BITalino y Leap
 --- !u!222 &1528932995
 CanvasRenderer:
   m_ObjectHideFlags: 0
